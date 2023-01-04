@@ -1,2 +1,3 @@
-# python-graphics
-Graphicsmade using python
+# Python graphics
+
+Graphics made using python
